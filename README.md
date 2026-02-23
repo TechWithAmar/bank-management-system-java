@@ -1,9 +1,9 @@
 # Bank Management System (Java)
 
-## 📌 Description
+## Description
 This is a console-based Bank Management System built using Core Java and OOP concepts.
 
-## 🚀 Features
+## Features
 - Create Account
 - Login Authentication
 - Deposit Money
@@ -11,13 +11,13 @@ This is a console-based Bank Management System built using Core Java and OOP con
 - Check Balance
 - Transaction History
 
-## 🛠 Technologies Used
+## Technologies Used
 - Java
 - OOP
 - Collections Framework
 - LocalDateTime API
 
-## ▶ How to Run
+## How to Run
 1. Clone the repository
 2. Compile all files:
    javac *.java
