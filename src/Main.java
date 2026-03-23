@@ -16,7 +16,7 @@ public class Main {
 
             switch (choice) {
                 case 1:
-                    System.out.print("Enter Account Number: ");
+                    System.out.print("Enter Account Number Please: ");
                     String accNo = sc.next();
                     System.out.print("Enter Name: ");
                     String name = sc.next();
